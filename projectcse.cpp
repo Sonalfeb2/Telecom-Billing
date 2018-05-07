@@ -5,9 +5,6 @@
 #include<iomanip>
 #include<fstream>
 
-
-
-
 using namespace std;
 
     class customer
